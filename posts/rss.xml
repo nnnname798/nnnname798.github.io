@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+    
+        
+
+        
+            
+        
+    
+
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<rss version="2.0"  xml:lang="en-us"  xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        
+
+        
+
+        
+            <language>en-us</language>
+        
+
+        
+            <lastBuildDate>Fri, 07 Nov 2025 17:01:36 CST</lastBuildDate>
+        
+
+        
+            <link>https://example.org/posts/</link>
+        
+
+        
+            <atom:link href="https://example.org/posts/rss.xml" hreflang="en-us" rel="self" type="application/rss+xml"/>
+        
+
+        
+            
+
+            <atom:link href="https://example.org/posts/" hreflang="en-us" rel="alternate" type="text/html"/>
+        
+            
+
+            <atom:link href="https://example.org/posts/rss.xml" hreflang="en-us" rel="alternate" type="application/rss+xml"/>
+        
+
+        
+
+        
+
+        
+            <title>Posts · My New Hugo Site</title>
+        
+
+        
+
+        
+            
+                <item>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+
+                    
+
+                    
+
+                    
+
+                    
+
+                    
+                    
+                    
+
+                    
+
+                    
+                        <description><![CDATA[<p>##这是测试文章
+#这是测试内容</p>]]></description>
+                    
+
+                    
+                        <guid isPermaLink="false">tag:example.org,2025-11-07:/posts/testariticle/</guid>
+                    
+
+                    
+                        <link>https://example.org/posts/testariticle/</link>
+                    
+
+                    
+                        
+
+                        
+
+                        <atom:link href="https://example.org/posts/testariticle/" hreflang="en-us" rel="alternate" type="text/html"/>
+                    
+
+                    
+
+                    
+                        <pubDate>Fri, 07 Nov 2025 17:01:36 CST</pubDate>
+                    
+
+                    
+                        <title>TestAriticle</title>
+                    
+                </item>
+            
+        
+    </channel>
+</rss>
